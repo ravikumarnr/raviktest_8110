@@ -1,0 +1,7 @@
+{
+  "name": "raviktest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
